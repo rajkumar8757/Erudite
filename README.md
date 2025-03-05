@@ -49,6 +49,7 @@ project-folder/
 
 ## Author
 - **Rajkumar** - https://github.com/rajkumar8757
+- **Website Link** - https://erudite2k25.netlify.app/
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
